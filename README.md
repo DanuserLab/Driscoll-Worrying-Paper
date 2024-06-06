@@ -1,4 +1,6 @@
 # Driscoll-Worrying-Paper
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10999660.svg)](https://doi.org/10.5281/zenodo.10999660)
+
 This bundle contains code used in **Proteolysis-free amoeboid migration through crowded environment via bleb-driven worrying**, *Developmental Cell*, 2024, written by Meghan K. Driscoll, Erik S. Welf, Andrew Weems, Etai Sapoznik, Felix Zhou, Vasanth S. Murali, Juan Manuel Garcia-Arcos, Minna Roh-Johnson, Matthieu Piel, Kevin M. Dean, Reto Fiolka, [Gaudenz Danuser](https://www.danuserlab-utsw.org/). Additional information can be found in the Methods section of this paper.
 
 **2D Bleb tracking and analysis** – Python code used to detect and track blebs frame-to-frame, and to analyze bleb size statistics before and after photoactivation. 
